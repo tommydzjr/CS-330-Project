@@ -6,9 +6,8 @@ This is repository is for Winter 2020 CS 330 Group project
 2. Open command (CMD) prompt
 3. change directory to Demo directory
 4. To test the chat demo, Run:
-    *server 0.0.0.0 7744*
-    
-    *open the chat.html in two seperate browser instances to simulate two different users*
+      *server 0.0.0.0 7744*
+      *open the chat.html in two seperate browser instances to simulate two different users*
 5. Begin chat
 6. When done, Kill the server and see how the chat service responds
 
