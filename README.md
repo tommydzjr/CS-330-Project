@@ -12,16 +12,16 @@ This is repository is for Winter 2020 CS 330 Group project
 6. When done, Kill the server and see how the chat service responds
 
 7. To test the youtube player demo, Run:
-   -*server 0.0.0.0 7745*
+   - *server 0.0.0.0 7745*
    
-   -*open the iplayer.html and player.html in two seperate browser instances to simulate the controler and the player*
+   - *open the iplayer.html and player.html in two seperate browser instances to simulate the controler and the player*
    
-   -*Perform test using any of the below links (copy and paste in textbox and press enter)*
+   - *Perform test using any of the below links (copy and paste in textbox and press enter)*
    
-      -*https://www.youtube.com/embed/nWWB_WFtqRg*
+      - *https://www.youtube.com/embed/nWWB_WFtqRg*
       
      - *https://www.youtube.com/embed/ZOzzRlc_qho*
       
-   -*or open copy and paste the embed link of any youtube video in the textbox and press enter*
+   - *or open copy and paste the embed link of any youtube video in the textbox and press enter*
  
  
