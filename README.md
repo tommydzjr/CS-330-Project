@@ -7,7 +7,7 @@ This is repository is for Winter 2020 CS 330 Group project
 3. change directory to Demo directory
 4. To test the chat demo:
      - *type: server 0.0.0.0 7744*
-     - *open: the chat.html in two seperate browser instances to simulate two different users*
+     - *open: chat.html in two seperate browser instances to simulate two different users*
 5. Begin chat
 6. When done, Kill the server and see how the chat service responds
 
