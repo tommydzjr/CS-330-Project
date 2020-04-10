@@ -1,7 +1,12 @@
 # CS-330-Project
 This is repository is for Winter 2020 CS 330 Group project 
+NAME: Fikayo Oluwakeye 
+STUDENT ID: 200383753
+NAME:  Tommy Zlahn
+STUDENT ID: 200354422
+Topic of OS: Sockets
 
-HERE IS THE LINK TO THE VIDEO OF HOW THE PROJECT WORKS
+HERE IS THE LINK TO THE VIDEO WHICH DESCRIBES THE PROJECT
 https://youtu.be/Yl7oOwqZKx0
 
 ## How to run Demo
