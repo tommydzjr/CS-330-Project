@@ -1,6 +1,9 @@
 # CS-330-Project
 This is repository is for Winter 2020 CS 330 Group project 
 
+HERE IS THE LINK TO THE VIDEO OF HOW THE PROJECT WORKS
+https://youtu.be/Yl7oOwqZKx0
+
 ## How to run Demo
 1. Download the Demo directory to your computer
 2. Open command (CMD) prompt
